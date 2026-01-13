@@ -1,0 +1,5 @@
+{
+  "name": "WOW FDA 510(k) Analyzer",
+  "description": "A structured, interactive regulatory dashboard for analyzing FDA 510(k) summaries using Gemini.",
+  "requestFramePermissions": []
+}
